@@ -1584,7 +1584,6 @@ input.fader::-moz-range-thumb {
     color: #000;
   }
 
-  .sheet,
   .sheet * {
     color: #000 !important;
     background-color: transparent !important;
